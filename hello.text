@@ -1,0 +1,4 @@
+int A;
+A = 3;
+cout << A << endl;
+
