@@ -1,1 +1,1 @@
-kusa
+python3 main.py
